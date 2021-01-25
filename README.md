@@ -1,4 +1,4 @@
-# Prediction of disease-associated deleterious variants in non-coding regions through a comprehensive analysis by integrating datasets and features
+# Prediction of disease-associated functional variants in non-coding regions through a comprehensive analysis by integrating datasets and features
 
 In this study, we integrated well-established features and commonly used datasets, and merged them into large-scale datasets based on a random forest model, which yielded promising performance and outperformed some cutting-edge approaches. 
 
